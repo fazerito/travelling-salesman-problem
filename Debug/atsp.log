@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (tsp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  SimulatedAnnealing.cpp
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\simulatedannealing.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\simulatedannealing.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\simulatedannealing.cpp(74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\simulatedannealing.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\simulatedannealing.cpp(117): warning C4244: 'return': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\simulatedannealing.cpp(148): warning C4018: '<': signed/unsigned mismatch
+  TimeMeasure.cpp
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\timemeasure.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  TSP.cpp
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(225): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(227): warning C4018: '<': signed/unsigned mismatch
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\tsp.cpp(238): warning C4018: '<': signed/unsigned mismatch
+  pea.cpp
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\pea.cpp(439): warning C4018: '<': signed/unsigned mismatch
+  Graph.cpp
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\graph.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  Menu.cpp
+c:\users\gervv\desktop\studbaza\projekty\repos\atsp\atsp\menu.cpp(68): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  atsp.vcxproj -> C:\Users\gervv\Desktop\studbaza\projekty\repos\atsp\Debug\atsp.exe
